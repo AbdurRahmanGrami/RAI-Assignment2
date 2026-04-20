@@ -1,0 +1,15 @@
+# Python 3.10+ recommended (tested on Python 3.10 in Google Colab)
+# Install with: pip install -r requirements.txt
+
+transformers==4.44.2
+torch==2.4.0
+accelerate==0.33.0
+scikit-learn==1.5.1
+pandas==2.2.2
+numpy==1.26.4
+matplotlib==3.9.1
+seaborn==0.13.2
+aif360==0.6.1
+fairlearn==0.10.0
+scipy==1.13.1
+datasets==2.21.0
