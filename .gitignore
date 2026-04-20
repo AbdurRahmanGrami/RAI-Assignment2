@@ -1,0 +1,20 @@
+# Dataset — too large for GitHub
+*.csv
+
+# Model checkpoints — too large for GitHub
+*.pt
+*.bin
+*.safetensors
+saved_model*/
+checkpoints*/
+
+# NumPy arrays
+*.npy
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Colab artefacts
+.config/
